@@ -1,0 +1,8 @@
+[
+  {
+    "device_id": "device-123",
+    "timestamp": 1625097600000,
+    "temperature": 25.4,
+    "humidity": 48
+  }
+]

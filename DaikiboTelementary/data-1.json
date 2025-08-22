@@ -1,0 +1,13 @@
+[
+  {
+    "device": {
+      "id": "device-123",
+      "type": "sensor"
+    },
+    "ts": 1625097600000,
+    "telemetry": {
+      "temperature": 25.4,
+      "humidity": 48
+    }
+  }
+]

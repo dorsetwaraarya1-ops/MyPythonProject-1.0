@@ -1,0 +1,10 @@
+[
+  {
+    "deviceId": "device-123",
+    "timestamp": "2021-07-01T00:00:00Z",
+    "measurements": {
+      "temp": 25.4,
+      "hum": 48
+    }
+  }
+]
